@@ -565,7 +565,7 @@ footer{
     position: absolute;
     top: 65px;
     left: 0px;
-    background-color: #fff;
+    background-color: #000;
     border-bottom: 4px solid #1b1b1b;
     width: 100%;
     padding: 0px;
@@ -612,7 +612,7 @@ footer{
     }
     nav .menu-icon .nav-icon:before,
     nav .menu-icon .nav-icon:after{
-        background-color: #000;
+        background-color: #fff;
         content: '';
         display: block;
         height: 100%;
